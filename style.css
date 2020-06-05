@@ -62,3 +62,43 @@ align-items: center;
 
 color: #F9FBFD;
 }
+.h2_description{
+    position: absolute;
+width: 430px;
+height: 21px;
+left: 103px;
+top: 836px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 42px;
+display: flex;
+align-items: center;
+
+color: #011C40;
+
+}
+.p_description{
+    position: absolute;
+    width: 512px;
+    height: 108px;
+    left: 103px;
+    top: 897px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    
+    color: #011C40;
+}
+.image_1{
+    position: absolute;
+width: 560px;
+height: 301px;
+left: 703px;
+top: 770px;
+}
